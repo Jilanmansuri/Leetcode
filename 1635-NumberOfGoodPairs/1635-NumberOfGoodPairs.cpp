@@ -1,0 +1,13 @@
+// Last updated: 03/08/2026, 10:09:05
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        unordered_map<int,int>mp;
+        int count=0;
+        for(int num:nums){
+            count+=mp[num];
+            mp[num]++;
+        }
+        return count;
+    }
+};
