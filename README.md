@@ -39,4 +39,12 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
