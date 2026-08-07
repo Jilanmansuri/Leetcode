@@ -31,6 +31,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Jilanmansuri/Leetcode/tree/master/0178-rank-scores) |
+| [0511-game-play-analysis-i](https://github.com/Jilanmansuri/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/Jilanmansuri/Leetcode/tree/master/0619-biggest-single-number) |
 ## Math
 |  |
