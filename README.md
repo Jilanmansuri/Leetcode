@@ -32,6 +32,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Jilanmansuri/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Jilanmansuri/Leetcode/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Jilanmansuri/Leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Jilanmansuri/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/Jilanmansuri/Leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Jilanmansuri/Leetcode/tree/master/0627-swap-sex-of-employees) |
