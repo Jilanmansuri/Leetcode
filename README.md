@@ -40,6 +40,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Math
 |  |
 | ------- |
+| [2651-calculate-delayed-arrival-time](https://github.com/Jilanmansuri/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
