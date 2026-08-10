@@ -50,6 +50,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
