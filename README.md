@@ -51,6 +51,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -66,4 +67,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
