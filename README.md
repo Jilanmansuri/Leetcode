@@ -7,6 +7,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 ## Queue
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Jilanmansuri/Leetcode/tree/master/0038-count-and-say) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jilanmansuri/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 <!---LeetCode Topics End-->
