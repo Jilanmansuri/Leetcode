@@ -42,6 +42,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Jilanmansuri/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -53,6 +54,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jilanmansuri/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
@@ -81,6 +83,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jilanmansuri/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Bit Manipulation
 |  |
