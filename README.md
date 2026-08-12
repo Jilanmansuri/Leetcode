@@ -59,6 +59,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Jilanmansuri/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Jilanmansuri/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
@@ -86,6 +87,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jilanmansuri/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/Jilanmansuri/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
