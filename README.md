@@ -77,6 +77,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0038-count-and-say](https://github.com/Jilanmansuri/Leetcode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1678-goal-parser-interpretation](https://github.com/Jilanmansuri/Leetcode/tree/master/1678-goal-parser-interpretation) |
 ## Greedy
 |  |
 | ------- |
