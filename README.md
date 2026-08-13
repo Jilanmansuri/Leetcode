@@ -8,6 +8,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
@@ -99,6 +100,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Hash Table
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -108,4 +110,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
