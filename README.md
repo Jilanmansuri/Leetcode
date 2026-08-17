@@ -8,6 +8,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -83,6 +84,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Greedy
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
@@ -122,6 +124,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Sorting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Tree
 |  |
@@ -131,4 +134,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Jilanmansuri/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
