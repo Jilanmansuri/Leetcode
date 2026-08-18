@@ -11,6 +11,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
@@ -85,6 +86,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
