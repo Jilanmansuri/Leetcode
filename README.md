@@ -67,6 +67,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Jilanmansuri/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
