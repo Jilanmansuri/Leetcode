@@ -72,6 +72,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Jilanmansuri/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Jilanmansuri/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
