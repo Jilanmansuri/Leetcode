@@ -19,18 +19,12 @@ public:
         ListNode* evenHead = even;
 
         while (even != NULL && even->next != NULL) {
-            // Odd nodes connect
             odd->next = even->next;
             odd = odd->next;
-
-            // Even nodes connect
             even->next = odd->next;
             even = even->next;
         }
-
-        // Odd list ke end par even list attach
         odd->next = evenHead;
-
         return head;
     }
 };
