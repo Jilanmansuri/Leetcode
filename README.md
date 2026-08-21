@@ -6,6 +6,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -130,6 +131,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Tree
@@ -148,4 +150,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
