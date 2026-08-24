@@ -6,6 +6,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -158,6 +160,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Quicksort
