@@ -7,6 +7,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0738-monotone-increasing-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -164,6 +166,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Quicksort
