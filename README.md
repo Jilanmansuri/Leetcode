@@ -7,6 +7,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -166,6 +168,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jilanmansuri/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -181,4 +184,16 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
