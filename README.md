@@ -20,6 +20,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1486-xor-operation-in-an-array](https://github.com/Jilanmansuri/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0048-rotate-image](https://github.com/Jilanmansuri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
