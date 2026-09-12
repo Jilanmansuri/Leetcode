@@ -19,6 +19,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -66,6 +67,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Jilanmansuri/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jilanmansuri/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
