@@ -21,6 +21,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Quicksort
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
