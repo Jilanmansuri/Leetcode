@@ -22,6 +22,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/Jilanmansuri/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/Jilanmansuri/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -175,6 +176,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3467-transform-array-by-parity](https://github.com/Jilanmansuri/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3467-transform-array-by-parity](https://github.com/Jilanmansuri/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
