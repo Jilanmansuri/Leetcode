@@ -73,6 +73,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/Jilanmansuri/Leetcode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jilanmansuri/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
