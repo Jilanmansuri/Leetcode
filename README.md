@@ -21,6 +21,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jilanmansuri/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -68,6 +69,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Jilanmansuri/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jilanmansuri/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -149,6 +151,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jilanmansuri/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
