@@ -107,6 +107,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0038-count-and-say](https://github.com/Jilanmansuri/Leetcode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1678-goal-parser-interpretation](https://github.com/Jilanmansuri/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Jilanmansuri/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Jilanmansuri/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
