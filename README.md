@@ -116,6 +116,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1678-goal-parser-interpretation](https://github.com/Jilanmansuri/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jilanmansuri/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Jilanmansuri/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/Jilanmansuri/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
