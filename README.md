@@ -114,12 +114,14 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0038-count-and-say](https://github.com/Jilanmansuri/Leetcode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1678-goal-parser-interpretation](https://github.com/Jilanmansuri/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jilanmansuri/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jilanmansuri/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Jilanmansuri/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
