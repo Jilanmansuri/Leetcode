@@ -21,6 +21,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [1470-shuffle-the-array](https://github.com/Jilanmansuri/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Jilanmansuri/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2574-left-and-right-sum-differences](https://github.com/Jilanmansuri/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jilanmansuri/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -181,6 +182,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/Jilanmansuri/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
