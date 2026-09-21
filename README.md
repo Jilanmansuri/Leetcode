@@ -26,6 +26,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Jilanmansuri/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3524-find-x-value-of-array-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jilanmansuri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/Jilanmansuri/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -78,6 +79,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilanmansuri/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Jilanmansuri/Leetcode/tree/master/3516-find-closest-person) |
+| [3524-find-x-value-of-array-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jilanmansuri/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jilanmansuri/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
@@ -247,4 +249,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jilanmansuri/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
