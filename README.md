@@ -14,6 +14,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -140,6 +141,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Jilanmansuri/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
@@ -164,6 +166,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0037-sudoku-solver](https://github.com/Jilanmansuri/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jilanmansuri/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -189,6 +192,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
+| [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3467-transform-array-by-parity](https://github.com/Jilanmansuri/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -253,4 +257,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
