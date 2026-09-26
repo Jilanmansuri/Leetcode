@@ -61,6 +61,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0184-department-highest-salary](https://github.com/Jilanmansuri/Leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Jilanmansuri/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Jilanmansuri/Leetcode/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/Jilanmansuri/Leetcode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Jilanmansuri/Leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Jilanmansuri/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jilanmansuri/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
