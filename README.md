@@ -64,6 +64,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0595-big-countries](https://github.com/Jilanmansuri/Leetcode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Jilanmansuri/Leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Jilanmansuri/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/Jilanmansuri/Leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jilanmansuri/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
