@@ -12,6 +12,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +142,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +196,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Jilanmansuri/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
