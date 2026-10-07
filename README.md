@@ -20,6 +20,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jilanmansuri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jilanmansuri/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jilanmansuri/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jilanmansuri/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Jilanmansuri/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Jilanmansuri/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Jilanmansuri/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -235,6 +236,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jilanmansuri/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3701-compute-alternating-sum](https://github.com/Jilanmansuri/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jilanmansuri/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Floyd's Cycle Finding Algorithm
