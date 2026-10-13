@@ -123,6 +123,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Jilanmansuri/Leetcode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1678-goal-parser-interpretation](https://github.com/Jilanmansuri/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -141,6 +142,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -266,9 +268,14 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3524-find-x-value-of-array-i](https://github.com/Jilanmansuri/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
