@@ -12,6 +12,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0054-spiral-matrix](https://github.com/Jilanmansuri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Jilanmansuri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Jilanmansuri/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Jilanmansuri/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Jilanmansuri/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -145,6 +146,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 | [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Jilanmansuri/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Jilanmansuri/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Jilanmansuri/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -202,6 +204,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Jilanmansuri/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jilanmansuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jilanmansuri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jilanmansuri/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -234,6 +237,7 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jilanmansuri/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Jilanmansuri/Leetcode/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -278,4 +282,8 @@ A collection of my LeetCode problem solutions and submissions to track my coding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jilanmansuri/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jilanmansuri/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
